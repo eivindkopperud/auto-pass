@@ -1,0 +1,1 @@
+HOOK = "your-slack-bot-hook-here"
